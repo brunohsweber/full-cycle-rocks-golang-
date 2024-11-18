@@ -1,3 +1,3 @@
 Link Dockerhub
 
-docker pull brunohsweber/full-cycle-rocks:latest
+https://hub.docker.com/r/brunohsweber/full-cycle-rocks
